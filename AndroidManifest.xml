@@ -70,7 +70,6 @@
             android:supportsRtl="true"
             android:process="system"
             android:usesCleartextTraffic="false"
-            android:defaultToDeviceProtectedStorage="true"
             android:directBootAware="true">
 
         <!-- CALL vs CALL_PRIVILEGED vs CALL_EMERGENCY
